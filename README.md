@@ -1,20 +1,41 @@
-## Hi there 👋
+## Hi there 👋  
+I'm Dũng, welcome to my GitHub profile!  
 
-<!--
-**Dung-vie/Dung-vie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🏆 Profile Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=Dung-vie&theme=onedark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 📊 GitHub Stats
+![Dung's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dung-vie&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dung-vie&layout=compact&theme=radical)
 
-![68747470733a2f2f692e67697068792e636f6d2f6d656469612f4d47646665694b7445694550532f67697068792e77656270](https://github.com/user-attachments/assets/23d27463-96e8-4d0c-a54f-303a6b0bb4e2)
+---
 
+### 🔭 Currently working on
+- Vue, React, Flutter development  
 
--->
+### 🌱 Currently learning
+- Rust, Go  
+
+### 💬 Ask me about
+- Anything tech related, I am happy to help  
+
+### 📫 How to reach me
+- Email (xem ở profile)  
+
+### ⚡ Fun fact
+- I wanna be a game developer 😎  
+
+---
+
+### 🔗 Links
+- [Weibo](https://weibo.com)  
+- [Mastodon](https://mastodon.social)  
+- [Twitter](https://twitter.com)  
+- [Zhihu](https://www.zhihu.com)  
+
+---
+
+### 🎬 Footer
+![funny gif](https://github.com/user-attachments/assets/23d27463-96e8-4d0c-a54f-303a6b0bb4e2)
